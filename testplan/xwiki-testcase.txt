@@ -1,0 +1,4 @@
+The repository of xwiki-platform (https://github.com/xwiki/xwiki-platform) contains functional testing code.
+
+You can fetch the repository, and refer to their official guideline (https://dev.xwiki.org/xwiki/bin/view/Community/Testing/)
+to automatically run the functional test cases.

@@ -1,0 +1,78 @@
+1)welogger install at the first time of startup
+2)new user account registration
+3)log in with the user account
+4)create a new weblog 
+5)create and save the draft
+6)create a new entry and post it.
+7)view entries
+8)view an entry 
+9)delete an entry
+10)update an entry 
+11)make a comment for an entry
+12)preview a comment which is being edited
+13)add a category for a weblog
+14)update the information of a category
+15)remove a category of a weblog
+16)add a bookmark
+17)create a new bookmark folder
+18)import bookmarks via OPML
+19)edit a bookmark
+20)visit a bookmark
+21)deleted selected bookmarks
+22)view media files in weblog
+23)upload a media file
+24)view entries under a category
+25)subscribe blogs under different categories.
+26)search entries in terms of keyword
+27)add external url links
+28)remove external url links and  update an existing url link
+29)subscribe comments
+30)navigate to front page
+31)navigate to weblog homepage
+32)add blacklist rules by using regrex
+33)change or update weblog's general setting
+34)remove the whole weblog
+35)update weblog preferences
+36)change and save the theme for the weblog
+37)preview the changed weblog
+38)view theme forms 
+39)edit weblog custom stylesheet
+40)view templates that define a weblog
+41)remove the templates which are selected
+42)add a new template
+43)edit the content of a template
+44)edit a user's profile
+45)use administration role to change server site setting
+46)set general users role of allowing a new weblog creation
+47)modify web services seeting
+48)modify weblog rendering setting: the number of entries to allow per page
+49)modify the configuration of comment and trackback in general 
+50)modify the theme setting
+51)modify the file upload settings.
+52)search a user by keyword from all users
+53)create a new user by admin user
+54)view the user management borad
+55)view the comments board
+56)filter comments by searching keyword or the posted date.
+57)mark the selected comments as spam
+58)unmark the  comments which were regarded as spams
+59)delete the selected bookmarks
+60)view ping targets board
+61)add a ping target
+62)enable a ping target
+63)disable a ping target
+64)remove a ping target
+65)edit a ping target
+66)view the statistics of the server cache information
+67)clear the selected cache information
+68)view planet admin board
+69)edit and save the planet settings
+70)add subscriptions to the list of newsfeeds that are to be included on the main Planet aggregator page
+71)delete the subscriptions in the feeds list
+72)add custom aggregation groups
+73)edit an existing aggregation group
+74)delete an aggregation group
+75)add subscriptions to an aggregation group
+76)log out the current account
+77)view recent entries
+78)view the weblog directory

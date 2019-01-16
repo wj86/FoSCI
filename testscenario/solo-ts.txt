@@ -1,0 +1,42 @@
+1)register
+2)initialize the blog
+3)login
+4)draft a blog and save
+5)distribute a blog
+6)browse a blog
+7)make a comments for a blog.
+8)delete a comment
+9)browse the draft list
+10)update an article
+11)upload an attachment to an article.
+12)update blog seeting
+13)update the skin
+14)browse blog according to archives.
+15)search a blog by a keyword
+16)view tags
+17)browse blogs by a tag
+18)subscribe through RSS button
+19)return back to top in a page
+20)top or stick a post
+21)unpin a post
+22)delete a post
+23)get related arcticle
+24)show system preference
+25)add category 
+26)remove category
+27)update category
+28)navigation management
+29)add an external link
+30)remove an external link
+31)add a new user 
+32)update user's profile and account information
+33)turn off a plugin usage
+34)turn on a plugin usage
+35)set the template of a email reply
+36)export json file, Hexo file and sql file.
+37)delete unused tags.
+38)user logout
+39)change a non-admin user role
+40)delete a user
+41)view a user's homepage
+42)create a new user

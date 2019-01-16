@@ -1,0 +1,37 @@
+1)init jforum install
+2)login with admin account
+3)view user account information
+4)send private message to another user
+5)preview message
+6)view forum index
+7)read new message since the user last login.
+8)view topics under a  category 
+9)view a topic
+10)watch a topic
+11)stop watching a topic
+12)reply a topic
+13)delete a post
+14)move a topic to a new  forum  and move back.
+15)bookmark a topic
+16)lock a topic in a forum
+17)unlock a topic.
+18)edit apost
+19)stick a post
+20)un-stick a post
+21)subscribe the forum to the feed using bookmarks
+22)filter forums by using item list
+23)view topics according to the rank of recent topics
+24)view the hottest topics
+25)view all the members in the forum
+26)return back to home page of the forum
+27)view the user's board description in moderation log block
+28)change the user's profile information
+29)upload an attachment as the user's avatar
+30)edit the bookmark to update the description 
+31)delete a bookmark
+32)view all bookmarks made by user
+33)view all un-read private messages
+34)reply a private message
+35)remove a private message
+36)check a group private message and remove all of them.
+37)logout the forum system

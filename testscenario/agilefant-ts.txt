@@ -1,0 +1,65 @@
+1)create a product
+2)create a new project after creating a product
+3)view the progress  of a project in terms of story points 
+4)create iterations for a project.
+5)split stories into tasks .
+6)view the iteration burndown chart to see the tasks' progress.
+7)in acticons button, move iterations from one project to another one.
+8)create standalone iterations with the parent project is left empty.
+9)rename the name of a backlog by  opening the backlog from the left side menu and then clicking its name that is at the top of the page
+10)delete an iteration from a project by open product in question and choose delete from action menu.
+11)delete a project from a product
+12)delete a product
+13)generate a link to a read-only iteration page by clicking ‘Share’ button (under ‘Actions’ button in the iteration view)
+14)share the generated link to other users with read-only access.
+15)select a default backlog.
+16)create a new account.
+17)set the default backlog opening the admin menu.
+18)set default backlog for other user with admin role by edit the users tab.
+19)export iteration contents to excel file.
+20)view the total points planned for a project.
+21)import an existing backlog from a csv or excel file.
+22)create stories for a project.
+23)create a stories which do not belong to any product or project.
+24)view the story points.
+25)update the state of stories 
+26)update the state of tasks.
+27)assign a business value to stories
+28)view story trees
+29)add label to a story
+30)edit and update the existing label for a story.
+31)delete the label of a story
+32)merge a label with other labels.
+33)view label editor board.
+34)navigate and view the related story of a story.
+35)view the description tab.
+36)delete a story.
+37)change and reorganize the priority of stories.
+38)add task to a story
+39)remove a story from an iteration
+40)move stories from one backlog to another
+41)move stories to an iteration from the story tree.
+42)edit tasks for a story.
+43)move a task without story to a story
+44)log spent effort to a task, story , iteration, project,product.
+45)view the story and task 's spent effort.
+46)view users' responsibilities.
+47)assign  a story to a user.
+48)create a regular user
+49)disable a user
+50)create a team using admin role
+51)filter the story tree based on states , names
+52)view the stories added to a user's work
+53)view the tasks assigned to a user's work.
+54)remove stories and tasks from a user's work.
+55)a user prioritize the stories and tasks for his own work.
+56)set backlog setting to customize your iteration and project views.
+57)change the planned start and due date of a story on a timeline.
+58)configure the board view 
+59)calculate and view the effort spent from a user.
+60)export the spent-effort data to excel file.
+61)customize the dashboard to get a quick overview of the projects which are cared about.
+62)update your profile information.
+63)enable a user.
+64)view all the access right of all products and iteration and teams.
+65)export all stories in a backlog to excel file.

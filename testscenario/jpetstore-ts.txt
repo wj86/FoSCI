@@ -1,0 +1,14 @@
+1)register a new user
+2)sign in
+3)sign out
+4)modify account info username, password, 
+5)view category
+6)view product
+7)add item to cart
+8)delete item from cart
+9)quantify cart item's price
+10)new order
+11)place order
+12)view old order
+13)search product
+14)modify account's address, location information

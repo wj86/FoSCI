@@ -1,0 +1,11 @@
+The repository includes the data in FoSCI:
+
+documentation: the specification, user guide of the subjects.
+
+testscenario:  the test scenarios for manual functional testing.
+
+testplan: the formal testplan files with test cases, recorded by Apache JMeter.
+
+traces: the collected execution traces.
+
+supplements： the supplementary materials for FoSCI paper draft.
