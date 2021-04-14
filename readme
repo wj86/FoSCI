@@ -9,3 +9,24 @@ testplan: the formal testplan files with test cases, recorded by Apache JMeter.
 traces: the collected execution traces.
 
 supplements： the supplementary materials for FoSCI paper draft.
+
+
+Please reference the following papers if FoSCI helps you.
+``
+@article{jin2019service,
+  title={Service candidate identification from monolithic systems based on execution traces},
+  author={Jin, Wuxia and Liu, Ting and Cai, Yuanfang and Kazman, Rick and Mo, Ran and Zheng, Qinghua},
+  journal={IEEE Transactions on Software Engineering},
+  year={2019},
+  publisher={IEEE}
+}
+
+@inproceedings{jin2018functionality,
+  title={Functionality-oriented microservice extraction based on execution trace clustering},
+  author={Jin, Wuxia and Liu, Ting and Zheng, Qinghua and Cui, Di and Cai, Yuanfang},
+  booktitle={2018 IEEE International Conference on Web Services (ICWS)},
+  pages={211--218},
+  year={2018},
+  organization={IEEE}
+}
+``
