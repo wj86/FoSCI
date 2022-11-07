@@ -30,7 +30,7 @@ Please see our paper for details: Jin WX, Zhong DH, Zhang YY, Yang MF, Liu T. Mi
 
 ## Reference
 
-** Please star this repository and reference the following papers if FoSCI helps you. We will continue to update this work.**
+**Please star this repository and reference the following papers if FoSCI helps you. We are continuing to update this work.**
 
 
  ```
